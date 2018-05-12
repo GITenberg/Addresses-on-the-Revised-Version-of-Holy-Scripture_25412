@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '31317'
     url: http://www.gutenberg.org/2009/agents/31317
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25412#Addresses-on-the-Revised-Version-of-Holy-Scripture
 gutenberg_issued: '2008-05-09'
 gutenberg_type: Text
 identifiers:
