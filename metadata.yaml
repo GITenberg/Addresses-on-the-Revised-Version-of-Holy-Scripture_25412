@@ -1,0 +1,29 @@
+_repo: Addresses-on-the-Revised-Version-of-Holy-Scripture_25412
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ellicott, C. J. (Charles John)
+    aliases:
+    - Ellicott, Charles John
+    - Lord Bishop of Gloucester and Bristol
+    birthdate: 1819
+    deathdate: 1905
+    gutenberg_agent_id: '31317'
+    url: http://www.gutenberg.org/2009/agents/31317
+description: ''
+gutenberg_issued: '2008-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25412'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible. English -- Versions -- Revised'
+title: Addresses on the Revised Version of Holy Scripture
+url: http://www.gutenberg.org/ebooks/25412
